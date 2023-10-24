@@ -1,0 +1,30 @@
+1 -Verify that the "Countries" screen is displaying as per the design.
+2 -Verify that the "Region/Continent" column is visible on "Countries" screen.
+3 -Verify that the dropdown filter is displaying below the "Region/Continent" title.
+4 -Verify that the dropdown filter includes a list of regions and continents.
+5 -Verify that the filtered region/continent is visible on "Region/Continent" column.
+6 -Verify that the "Country Name" column is visible on "Countries" screen.
+7 -Verify that the dropdown filter is displaying below the "Country Name" title.
+8 -Verify that the dropdown filter includes a list of countries alongside their respective regions.
+9 -Verify that the filtered country is visible on "Country Name " column.
+10-Verify that countries lists are displaying according to their their respective regions.
+11-Verify that the "Status" column is visible on "Countries" screen.
+12-Verify that the dropdown filter is displaying below the "Status" title.
+13-Verify that the dropdown filter includes "Active" and "Inactive" statuses.
+14-Verify that the filtered status is visible on "Status" column. 
+15-Verify that checkboxes are visible beside the name of region to select or deselect any region.
+16-Verify that the user have the authority to activate or deactivate any country using checkbox.
+17-Verify that the "Mark Active" and "Mark Inactive" button is displaying on top when user select any checkbox or "select All" checkbox.
+18-Verify that states lists are displaying according to their their respective countries.
+19-Verify that the checkboxes are visible to activate or deactivate countries.
+20-Verify that the user have the authority to activate or deactivate any country.
+21-Verify that the "State/Territories" and "Status" columns are displaying when user "Active" any status.
+22-Verify that Checkboxes are visible to activate or deactivate "States/Territores.
+23-Verify that the "Select All" checkbox is displaying besides the "States/Territories" title.
+24-Verify that the user have the authority to mark statuses of all states/territories.
+25-Verify that the user have the authority to mark any individual states/territories Active or Inactive.
+26-Verify that the "State/Territories" and "Status" columns are not visible when the statuses are "Inactive".
+27-Verify that the sort icon button is clickable and visible besides title of each column.
+28-Verify that sort icon button on "Region/Continent" column can sort region from A-Z and Z-A.
+29-Verify that sort icon button on "Country Name" column can sort countries from A-Z and Z-A.
+30-Verify that sort icon button on "States" column can sort states from A-Z and Z-A.
