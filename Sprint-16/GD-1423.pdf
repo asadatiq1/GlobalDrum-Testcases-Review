@@ -1,0 +1,42 @@
+Verify that the "Countries" screen is displaying as per the design.
+Verify that the "Region/Continent" column is visible on "Countries" screen.
+Verify that the dropdown filter is displaying below the "Region/Continent" title.
+Verify that the dropdown filter includes a list of regions and continents.
+Verify that the filtered region/continent is visible on "Region/Continent" column.
+Verify that the "Country Name" column is visible on "Countries" screen.
+Verify that the dropdown filter is displaying below the "Country Name" title.
+Verify that the dropdown filter includes a list of countries alongside their respective regions.
+Verify that all countries are listed on "Country Name " dropdown if not region is selected.
+Verify that the filtered country is visible on "Country Name " column.
+Verify that the "Status" column is visible on "Countries" screen.
+Verify that the dropdown filter is displaying below the "Status" title.
+Verify that the dropdown filter includes "Active" and "Inactive" statuses.
+Verify that the filtered status is visible on "Status" column.
+Verify that checkboxes are visible beside the name of region to select or deselect any region.
+Verify that the user have the authority to activate or deactivate any country using checkbox.
+Verify that the "Mark Active" and "Mark Inactive" button is displaying on top when user select any checkbox or "select All" checkbox.
+Verify that states lists are displaying according to their their respective countries.
+Verify that the user have the authority to activate or deactivate any country.
+Verify that the "State/Territories" and "Status" columns are displaying when user "Active" any status.
+Verify that Checkboxes are visible to activate or deactivate "States/Territores".
+Verify that the "Select All" checkbox is displaying besides the "States/Territories" title.
+Verify that the user have the authority to mark any individual states/territories Active or Inactive.
+Verify that the "State/Territories" and "Status" columns are not visible when the statuses are "Inactive".
+Verify that the sort icon button is clickable and visible besides title of each column.
+Verify that sort icon button on "Region/Continent" column can sort region from A-Z and Z-A.
+Verify that sort icon button on "Country Name" column can sort countries from A-Z and Z-A.
+Verify that sort icon button on "States" column can sort states from A-Z and Z-A.
+Verify that when the user activates the country status, the status is saved.
+Verify that when the user deactivates the states status, the status is saved.
+Verify that checkbox is marked when user clicks on the checkbox.
+Verify that the checkbox is unmarked when user clicks on marked checkbox.
+Verify that those countries that are not related to the selected region are not visible on the country column and country dropdown filter.
+Verify that those states that are not related to the selected country are not visible on the states column and states dropdown filter.
+Verify that every country row must have active or inactive status.
+Verify that every country row must have active or inactive status.
+Verify if the status column is empty, then the country is not visible.
+Verify if the status column is empty then the state is not visible.
+Verify that on clicking mark active button all the statuses of the selected countries and states is marked active.
+Verify that none of the selected countries' and states' statuses are inactive after making them active by clicking of mark active button.
+Verify that on clicking mark Inactive button all the statuses of the selected countries and states is marked Inactive
+Verify that none of the selected countries' and states' statuses are active after making them Inactive by clicking of mark Inactive button.
